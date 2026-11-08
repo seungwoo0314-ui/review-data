@@ -1,0 +1,164 @@
+{
+ "round": 341,
+ "drawDate": "2026-11-12",
+ "basedOnRound": 340,
+ "publishedAt": "2026-11-07T15:22:27.951Z",
+ "mode": "live",
+ "picks": [
+  {
+   "strategy": "hot",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 5,
+     "number": "621531"
+    },
+    {
+     "label": "B",
+     "group": 4,
+     "number": "401512"
+    },
+    {
+     "label": "C",
+     "group": 5,
+     "number": "458214"
+    },
+    {
+     "label": "D",
+     "group": 4,
+     "number": "684217"
+    },
+    {
+     "label": "E",
+     "group": 5,
+     "number": "659780"
+    }
+   ],
+   "note": "최근 24회 최다 조: 3조(9회) · 끝자리 최다: 2"
+  },
+  {
+   "strategy": "cold",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 1,
+     "number": "873601"
+    },
+    {
+     "label": "B",
+     "group": 5,
+     "number": "870667"
+    },
+    {
+     "label": "C",
+     "group": 3,
+     "number": "573260"
+    },
+    {
+     "label": "D",
+     "group": 1,
+     "number": "523256"
+    },
+    {
+     "label": "E",
+     "group": 2,
+     "number": "973468"
+    }
+   ],
+   "note": "자리별 가장 오래 안 나온 숫자: 873668"
+  },
+  {
+   "strategy": "balanced",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 2,
+     "number": "547295"
+    },
+    {
+     "label": "B",
+     "group": 2,
+     "number": "915594"
+    },
+    {
+     "label": "C",
+     "group": 1,
+     "number": "417769"
+    },
+    {
+     "label": "D",
+     "group": 5,
+     "number": "394283"
+    },
+    {
+     "label": "E",
+     "group": 5,
+     "number": "566052"
+    }
+   ],
+   "note": "자릿수 합 18~36, 같은 숫자 3회 이상 반복 없음"
+  },
+  {
+   "strategy": "saju",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 4,
+     "number": "657909"
+    },
+    {
+     "label": "B",
+     "group": 5,
+     "number": "695453"
+    },
+    {
+     "label": "C",
+     "group": 1,
+     "number": "554996"
+    },
+    {
+     "label": "D",
+     "group": 2,
+     "number": "544987"
+    },
+    {
+     "label": "E",
+     "group": 2,
+     "number": "464795"
+    }
+   ],
+   "note": "병오년 기해월 경인일 — 일간 庚(금) 기운. 토·금·수 오행 번호에 힘을 실었습니다."
+  },
+  {
+   "strategy": "random",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 5,
+     "number": "878169"
+    },
+    {
+     "label": "B",
+     "group": 1,
+     "number": "155397"
+    },
+    {
+     "label": "C",
+     "group": 5,
+     "number": "093339"
+    },
+    {
+     "label": "D",
+     "group": 2,
+     "number": "171227"
+    },
+    {
+     "label": "E",
+     "group": 1,
+     "number": "552719"
+    }
+   ],
+   "note": "균등 확률. 비교 기준용"
+  }
+ ]
+}
