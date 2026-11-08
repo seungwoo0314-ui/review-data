@@ -1,0 +1,199 @@
+{
+ "date": "2026-11-08",
+ "reviewedAt": "2026-11-08T07:30:56.390Z",
+ "complete": false,
+ "forecasts": [
+  {
+   "matchId": "401878757",
+   "result": "home",
+   "probs": {
+    "home": 0.286,
+    "draw": 0.246,
+    "away": 0.468
+   },
+   "oddsSource": "ref",
+   "brier": 0.7893,
+   "impliedBrier": 1.0036
+  },
+  {
+   "matchId": "401878759",
+   "result": null,
+   "probs": {
+    "home": 0.314,
+    "draw": 0.25,
+    "away": 0.435
+   },
+   "oddsSource": "ref",
+   "brier": null,
+   "impliedBrier": null
+  },
+  {
+   "matchId": "401879239",
+   "result": null,
+   "probs": {
+    "home": 0.37,
+    "draw": 0.254,
+    "away": 0.377
+   },
+   "oddsSource": "ref",
+   "brier": null,
+   "impliedBrier": null
+  },
+  {
+   "matchId": "401879243",
+   "result": null,
+   "probs": {
+    "home": 0.331,
+    "draw": 0.252,
+    "away": 0.417
+   },
+   "oddsSource": "ref",
+   "brier": null,
+   "impliedBrier": null
+  },
+  {
+   "matchId": "401879244",
+   "result": null,
+   "probs": {
+    "home": 0.522,
+    "draw": 0.236,
+    "away": 0.241
+   },
+   "oddsSource": "ref",
+   "brier": null,
+   "impliedBrier": null
+  }
+ ],
+ "profiles": [
+  {
+   "profile": "stable",
+   "picks": [],
+   "n": 0,
+   "hits": 0,
+   "stake": 0,
+   "payout": 0
+  },
+  {
+   "profile": "high",
+   "picks": [
+    {
+     "matchId": "401879243",
+     "outcome": "home",
+     "prob": 0.331,
+     "odds": 5.5,
+     "oddsSource": "ref",
+     "implied": 0.173,
+     "edge": 0.158,
+     "reason": "홈 승 배당 5.50 × 확률 33%",
+     "result": null,
+     "hit": null,
+     "payout": 0
+    },
+    {
+     "matchId": "401879239",
+     "outcome": "home",
+     "prob": 0.37,
+     "odds": 3.8,
+     "oddsSource": "ref",
+     "implied": 0.252,
+     "edge": 0.118,
+     "reason": "홈 승 배당 3.80 × 확률 37%",
+     "result": null,
+     "hit": null,
+     "payout": 0
+    },
+    {
+     "matchId": "401878757",
+     "outcome": "home",
+     "prob": 0.286,
+     "odds": 4.7,
+     "oddsSource": "ref",
+     "implied": 0.203,
+     "edge": 0.083,
+     "reason": "홈 승 배당 4.70 × 확률 29%",
+     "result": "home",
+     "hit": true,
+     "payout": 4.7
+    },
+    {
+     "matchId": "401878759",
+     "outcome": "home",
+     "prob": 0.314,
+     "odds": 3.85,
+     "oddsSource": "ref",
+     "implied": 0.247,
+     "edge": 0.067,
+     "reason": "홈 승 배당 3.85 × 확률 31%",
+     "result": null,
+     "hit": null,
+     "payout": 0
+    }
+   ],
+   "n": 1,
+   "hits": 1,
+   "stake": 1,
+   "payout": 4.7
+  },
+  {
+   "profile": "value",
+   "picks": [
+    {
+     "matchId": "401879243",
+     "outcome": "home",
+     "prob": 0.331,
+     "odds": 5.5,
+     "oddsSource": "ref",
+     "implied": 0.173,
+     "edge": 0.158,
+     "reason": "홈 승 모델 33% vs 배당 내재 17%",
+     "result": null,
+     "hit": null,
+     "payout": 0
+    },
+    {
+     "matchId": "401879239",
+     "outcome": "home",
+     "prob": 0.37,
+     "odds": 3.8,
+     "oddsSource": "ref",
+     "implied": 0.252,
+     "edge": 0.118,
+     "reason": "홈 승 모델 37% vs 배당 내재 25%",
+     "result": null,
+     "hit": null,
+     "payout": 0
+    },
+    {
+     "matchId": "401878757",
+     "outcome": "home",
+     "prob": 0.286,
+     "odds": 4.7,
+     "oddsSource": "ref",
+     "implied": 0.203,
+     "edge": 0.083,
+     "reason": "홈 승 모델 29% vs 배당 내재 20%",
+     "result": "home",
+     "hit": true,
+     "payout": 4.7
+    },
+    {
+     "matchId": "401878759",
+     "outcome": "home",
+     "prob": 0.314,
+     "odds": 3.85,
+     "oddsSource": "ref",
+     "implied": 0.247,
+     "edge": 0.067,
+     "reason": "홈 승 모델 31% vs 배당 내재 25%",
+     "result": null,
+     "hit": null,
+     "payout": 0
+    }
+   ],
+   "n": 1,
+   "hits": 1,
+   "stake": 1,
+   "payout": 4.7
+  }
+ ]
+}
