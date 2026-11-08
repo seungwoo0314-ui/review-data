@@ -1,0 +1,73 @@
+{
+ "date": "2026-11-09",
+ "publishedAt": "2026-11-07T15:37:58.804Z",
+ "basedOnMatches": 852,
+ "basedOnUntil": "2026-11-07T12:30Z",
+ "mode": "live",
+ "forecasts": [
+  {
+   "matchId": "401879240",
+   "league": "eng.1",
+   "kickoff": "2026-11-08T16:30Z",
+   "home": {
+    "id": "360",
+    "name": "Manchester United",
+    "abbr": "MAN",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+   },
+   "away": {
+    "id": "362",
+    "name": "Aston Villa",
+    "abbr": "AVL",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+   },
+   "probs": {
+    "home": 0.449,
+    "draw": 0.249,
+    "away": 0.302
+   },
+   "elo": {
+    "home": 1507,
+    "away": 1531
+   },
+   "xg": {
+    "home": 1.56,
+    "away": 1.24
+   },
+   "odds": {
+    "home": 2.15,
+    "draw": 3.75,
+    "away": 3.2
+   },
+   "oddsSource": "ref"
+  }
+ ],
+ "profiles": [
+  {
+   "profile": "stable",
+   "picks": [],
+   "note": "확률 55% 이상인 결과가 없어 추천하지 않습니다"
+  },
+  {
+   "profile": "high",
+   "picks": [
+    {
+     "matchId": "401879240",
+     "outcome": "away",
+     "prob": 0.302,
+     "odds": 3.2,
+     "oddsSource": "ref",
+     "implied": 0.299,
+     "edge": 0.003,
+     "reason": "원정 승 배당 3.20 × 확률 30%"
+    }
+   ],
+   "note": "배당 2.4 이상·확률 25% 이상 1건 중 상위 1건"
+  },
+  {
+   "profile": "value",
+   "picks": [],
+   "note": "배당 있는 1경기 모두 모델과 배당 차이가 4%p 미만"
+  }
+ ]
+}
