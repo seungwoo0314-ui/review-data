@@ -32,6 +32,231 @@
      "label": "E",
      "group": 5,
      "number": "659780"
+    },
+    {
+     "label": "A2",
+     "group": 4,
+     "number": "611812"
+    },
+    {
+     "label": "B2",
+     "group": 3,
+     "number": "991952"
+    },
+    {
+     "label": "C2",
+     "group": 3,
+     "number": "668312"
+    },
+    {
+     "label": "D2",
+     "group": 2,
+     "number": "221784"
+    },
+    {
+     "label": "E2",
+     "group": 3,
+     "number": "151522"
+    },
+    {
+     "label": "A3",
+     "group": 5,
+     "number": "629917"
+    },
+    {
+     "label": "B3",
+     "group": 2,
+     "number": "295382"
+    },
+    {
+     "label": "C3",
+     "group": 5,
+     "number": "692572"
+    },
+    {
+     "label": "D3",
+     "group": 5,
+     "number": "031572"
+    },
+    {
+     "label": "E3",
+     "group": 3,
+     "number": "128907"
+    },
+    {
+     "label": "A4",
+     "group": 2,
+     "number": "606991"
+    },
+    {
+     "label": "B4",
+     "group": 4,
+     "number": "654989"
+    },
+    {
+     "label": "C4",
+     "group": 4,
+     "number": "025512"
+    },
+    {
+     "label": "D4",
+     "group": 4,
+     "number": "696312"
+    },
+    {
+     "label": "E4",
+     "group": 5,
+     "number": "806352"
+    },
+    {
+     "label": "A5",
+     "group": 4,
+     "number": "242314"
+    },
+    {
+     "label": "B5",
+     "group": 2,
+     "number": "465314"
+    },
+    {
+     "label": "C5",
+     "group": 2,
+     "number": "762983"
+    },
+    {
+     "label": "D5",
+     "group": 2,
+     "number": "401515"
+    },
+    {
+     "label": "E5",
+     "group": 3,
+     "number": "631913"
+    },
+    {
+     "label": "A6",
+     "group": 3,
+     "number": "656917"
+    },
+    {
+     "label": "B6",
+     "group": 5,
+     "number": "201913"
+    },
+    {
+     "label": "C6",
+     "group": 4,
+     "number": "121310"
+    },
+    {
+     "label": "D6",
+     "group": 3,
+     "number": "759914"
+    },
+    {
+     "label": "E6",
+     "group": 5,
+     "number": "551573"
+    },
+    {
+     "label": "A7",
+     "group": 5,
+     "number": "104715"
+    },
+    {
+     "label": "B7",
+     "group": 3,
+     "number": "824412"
+    },
+    {
+     "label": "C7",
+     "group": 3,
+     "number": "586915"
+    },
+    {
+     "label": "D7",
+     "group": 3,
+     "number": "648510"
+    },
+    {
+     "label": "E7",
+     "group": 3,
+     "number": "626312"
+    },
+    {
+     "label": "A8",
+     "group": 2,
+     "number": "109095"
+    },
+    {
+     "label": "B8",
+     "group": 3,
+     "number": "056343"
+    },
+    {
+     "label": "C8",
+     "group": 3,
+     "number": "001712"
+    },
+    {
+     "label": "D8",
+     "group": 4,
+     "number": "699752"
+    },
+    {
+     "label": "E8",
+     "group": 4,
+     "number": "651312"
+    },
+    {
+     "label": "A9",
+     "group": 2,
+     "number": "521610"
+    },
+    {
+     "label": "B9",
+     "group": 2,
+     "number": "608911"
+    },
+    {
+     "label": "C9",
+     "group": 5,
+     "number": "616713"
+    },
+    {
+     "label": "D9",
+     "group": 5,
+     "number": "186414"
+    },
+    {
+     "label": "E9",
+     "group": 5,
+     "number": "601312"
+    },
+    {
+     "label": "A10",
+     "group": 1,
+     "number": "205523"
+    },
+    {
+     "label": "B10",
+     "group": 3,
+     "number": "129997"
+    },
+    {
+     "label": "C10",
+     "group": 2,
+     "number": "401974"
+    },
+    {
+     "label": "D10",
+     "group": 4,
+     "number": "656210"
+    },
+    {
+     "label": "E10",
+     "group": 4,
+     "number": "404730"
     }
    ],
    "note": "최근 24회 최다 조: 3조(9회) · 끝자리 최다: 2"
@@ -63,6 +288,231 @@
      "label": "E",
      "group": 2,
      "number": "973468"
+    },
+    {
+     "label": "A2",
+     "group": 1,
+     "number": "875666"
+    },
+    {
+     "label": "B2",
+     "group": 2,
+     "number": "570268"
+    },
+    {
+     "label": "C2",
+     "group": 2,
+     "number": "573287"
+    },
+    {
+     "label": "D2",
+     "group": 3,
+     "number": "483607"
+    },
+    {
+     "label": "E2",
+     "group": 2,
+     "number": "870601"
+    },
+    {
+     "label": "A3",
+     "group": 5,
+     "number": "973666"
+    },
+    {
+     "label": "B3",
+     "group": 2,
+     "number": "773460"
+    },
+    {
+     "label": "C3",
+     "group": 2,
+     "number": "873467"
+    },
+    {
+     "label": "D3",
+     "group": 1,
+     "number": "777206"
+    },
+    {
+     "label": "E3",
+     "group": 3,
+     "number": "570268"
+    },
+    {
+     "label": "A4",
+     "group": 2,
+     "number": "273276"
+    },
+    {
+     "label": "B4",
+     "group": 5,
+     "number": "223287"
+    },
+    {
+     "label": "C4",
+     "group": 4,
+     "number": "872226"
+    },
+    {
+     "label": "D4",
+     "group": 2,
+     "number": "973629"
+    },
+    {
+     "label": "E4",
+     "group": 2,
+     "number": "573668"
+    },
+    {
+     "label": "A5",
+     "group": 1,
+     "number": "983208"
+    },
+    {
+     "label": "B5",
+     "group": 3,
+     "number": "575408"
+    },
+    {
+     "label": "C5",
+     "group": 1,
+     "number": "530668"
+    },
+    {
+     "label": "D5",
+     "group": 2,
+     "number": "873368"
+    },
+    {
+     "label": "E5",
+     "group": 5,
+     "number": "843669"
+    },
+    {
+     "label": "A6",
+     "group": 1,
+     "number": "573209"
+    },
+    {
+     "label": "B6",
+     "group": 3,
+     "number": "873467"
+    },
+    {
+     "label": "C6",
+     "group": 5,
+     "number": "823667"
+    },
+    {
+     "label": "D6",
+     "group": 2,
+     "number": "078668"
+    },
+    {
+     "label": "E6",
+     "group": 2,
+     "number": "873666"
+    },
+    {
+     "label": "A7",
+     "group": 4,
+     "number": "522680"
+    },
+    {
+     "label": "B7",
+     "group": 1,
+     "number": "973668"
+    },
+    {
+     "label": "C7",
+     "group": 4,
+     "number": "880468"
+    },
+    {
+     "label": "D7",
+     "group": 3,
+     "number": "873608"
+    },
+    {
+     "label": "E7",
+     "group": 1,
+     "number": "873661"
+    },
+    {
+     "label": "A8",
+     "group": 1,
+     "number": "823627"
+    },
+    {
+     "label": "B8",
+     "group": 5,
+     "number": "527360"
+    },
+    {
+     "label": "C8",
+     "group": 5,
+     "number": "410263"
+    },
+    {
+     "label": "D8",
+     "group": 5,
+     "number": "087663"
+    },
+    {
+     "label": "E8",
+     "group": 2,
+     "number": "870668"
+    },
+    {
+     "label": "A9",
+     "group": 4,
+     "number": "479647"
+    },
+    {
+     "label": "B9",
+     "group": 5,
+     "number": "270466"
+    },
+    {
+     "label": "C9",
+     "group": 2,
+     "number": "872668"
+    },
+    {
+     "label": "D9",
+     "group": 2,
+     "number": "883668"
+    },
+    {
+     "label": "E9",
+     "group": 1,
+     "number": "423648"
+    },
+    {
+     "label": "A10",
+     "group": 4,
+     "number": "873266"
+    },
+    {
+     "label": "B10",
+     "group": 4,
+     "number": "873667"
+    },
+    {
+     "label": "C10",
+     "group": 1,
+     "number": "873667"
+    },
+    {
+     "label": "D10",
+     "group": 3,
+     "number": "872608"
+    },
+    {
+     "label": "E10",
+     "group": 5,
+     "number": "873766"
     }
    ],
    "note": "자리별 가장 오래 안 나온 숫자: 873668"
@@ -94,6 +544,231 @@
      "label": "E",
      "group": 5,
      "number": "566052"
+    },
+    {
+     "label": "A2",
+     "group": 4,
+     "number": "598174"
+    },
+    {
+     "label": "B2",
+     "group": 2,
+     "number": "216996"
+    },
+    {
+     "label": "C2",
+     "group": 2,
+     "number": "631092"
+    },
+    {
+     "label": "D2",
+     "group": 3,
+     "number": "675121"
+    },
+    {
+     "label": "E2",
+     "group": 4,
+     "number": "751320"
+    },
+    {
+     "label": "A3",
+     "group": 5,
+     "number": "249340"
+    },
+    {
+     "label": "B3",
+     "group": 3,
+     "number": "281158"
+    },
+    {
+     "label": "C3",
+     "group": 4,
+     "number": "910390"
+    },
+    {
+     "label": "D3",
+     "group": 5,
+     "number": "990353"
+    },
+    {
+     "label": "E3",
+     "group": 1,
+     "number": "625659"
+    },
+    {
+     "label": "A4",
+     "group": 1,
+     "number": "496177"
+    },
+    {
+     "label": "B4",
+     "group": 1,
+     "number": "457763"
+    },
+    {
+     "label": "C4",
+     "group": 4,
+     "number": "219337"
+    },
+    {
+     "label": "D4",
+     "group": 5,
+     "number": "650625"
+    },
+    {
+     "label": "E4",
+     "group": 5,
+     "number": "356822"
+    },
+    {
+     "label": "A5",
+     "group": 5,
+     "number": "907085"
+    },
+    {
+     "label": "B5",
+     "group": 3,
+     "number": "458524"
+    },
+    {
+     "label": "C5",
+     "group": 2,
+     "number": "572720"
+    },
+    {
+     "label": "D5",
+     "group": 2,
+     "number": "973060"
+    },
+    {
+     "label": "E5",
+     "group": 1,
+     "number": "144681"
+    },
+    {
+     "label": "A6",
+     "group": 3,
+     "number": "780038"
+    },
+    {
+     "label": "B6",
+     "group": 2,
+     "number": "836991"
+    },
+    {
+     "label": "C6",
+     "group": 4,
+     "number": "490216"
+    },
+    {
+     "label": "D6",
+     "group": 5,
+     "number": "765138"
+    },
+    {
+     "label": "E6",
+     "group": 3,
+     "number": "962701"
+    },
+    {
+     "label": "A7",
+     "group": 5,
+     "number": "809391"
+    },
+    {
+     "label": "B7",
+     "group": 2,
+     "number": "057566"
+    },
+    {
+     "label": "C7",
+     "group": 1,
+     "number": "042687"
+    },
+    {
+     "label": "D7",
+     "group": 4,
+     "number": "335564"
+    },
+    {
+     "label": "E7",
+     "group": 5,
+     "number": "531727"
+    },
+    {
+     "label": "A8",
+     "group": 3,
+     "number": "599060"
+    },
+    {
+     "label": "B8",
+     "group": 2,
+     "number": "699320"
+    },
+    {
+     "label": "C8",
+     "group": 3,
+     "number": "078956"
+    },
+    {
+     "label": "D8",
+     "group": 2,
+     "number": "487354"
+    },
+    {
+     "label": "E8",
+     "group": 2,
+     "number": "672818"
+    },
+    {
+     "label": "A9",
+     "group": 3,
+     "number": "219385"
+    },
+    {
+     "label": "B9",
+     "group": 5,
+     "number": "553226"
+    },
+    {
+     "label": "C9",
+     "group": 2,
+     "number": "067571"
+    },
+    {
+     "label": "D9",
+     "group": 2,
+     "number": "858056"
+    },
+    {
+     "label": "E9",
+     "group": 2,
+     "number": "166281"
+    },
+    {
+     "label": "A10",
+     "group": 3,
+     "number": "401437"
+    },
+    {
+     "label": "B10",
+     "group": 1,
+     "number": "633199"
+    },
+    {
+     "label": "C10",
+     "group": 5,
+     "number": "406283"
+    },
+    {
+     "label": "D10",
+     "group": 2,
+     "number": "166322"
+    },
+    {
+     "label": "E10",
+     "group": 2,
+     "number": "859503"
     }
    ],
    "note": "자릿수 합 18~36, 같은 숫자 3회 이상 반복 없음"
@@ -125,6 +800,231 @@
      "label": "E",
      "group": 2,
      "number": "464795"
+    },
+    {
+     "label": "A2",
+     "group": 3,
+     "number": "090426"
+    },
+    {
+     "label": "B2",
+     "group": 2,
+     "number": "097359"
+    },
+    {
+     "label": "C2",
+     "group": 2,
+     "number": "660105"
+    },
+    {
+     "label": "D2",
+     "group": 1,
+     "number": "195411"
+    },
+    {
+     "label": "E2",
+     "group": 4,
+     "number": "510894"
+    },
+    {
+     "label": "A3",
+     "group": 4,
+     "number": "141850"
+    },
+    {
+     "label": "B3",
+     "group": 3,
+     "number": "565659"
+    },
+    {
+     "label": "C3",
+     "group": 4,
+     "number": "444754"
+    },
+    {
+     "label": "D3",
+     "group": 4,
+     "number": "954911"
+    },
+    {
+     "label": "E3",
+     "group": 1,
+     "number": "906660"
+    },
+    {
+     "label": "A4",
+     "group": 2,
+     "number": "980326"
+    },
+    {
+     "label": "B4",
+     "group": 1,
+     "number": "564911"
+    },
+    {
+     "label": "C4",
+     "group": 5,
+     "number": "910905"
+    },
+    {
+     "label": "D4",
+     "group": 5,
+     "number": "414511"
+    },
+    {
+     "label": "E4",
+     "group": 4,
+     "number": "965796"
+    },
+    {
+     "label": "A5",
+     "group": 1,
+     "number": "598802"
+    },
+    {
+     "label": "B5",
+     "group": 2,
+     "number": "361240"
+    },
+    {
+     "label": "C5",
+     "group": 1,
+     "number": "449601"
+    },
+    {
+     "label": "D5",
+     "group": 3,
+     "number": "691050"
+    },
+    {
+     "label": "E5",
+     "group": 5,
+     "number": "495636"
+    },
+    {
+     "label": "A6",
+     "group": 1,
+     "number": "204061"
+    },
+    {
+     "label": "B6",
+     "group": 5,
+     "number": "641269"
+    },
+    {
+     "label": "C6",
+     "group": 2,
+     "number": "562091"
+    },
+    {
+     "label": "D6",
+     "group": 4,
+     "number": "409454"
+    },
+    {
+     "label": "E6",
+     "group": 3,
+     "number": "055675"
+    },
+    {
+     "label": "A7",
+     "group": 5,
+     "number": "992106"
+    },
+    {
+     "label": "B7",
+     "group": 3,
+     "number": "108099"
+    },
+    {
+     "label": "C7",
+     "group": 4,
+     "number": "132029"
+    },
+    {
+     "label": "D7",
+     "group": 4,
+     "number": "494310"
+    },
+    {
+     "label": "E7",
+     "group": 5,
+     "number": "949663"
+    },
+    {
+     "label": "A8",
+     "group": 4,
+     "number": "649914"
+    },
+    {
+     "label": "B8",
+     "group": 4,
+     "number": "649445"
+    },
+    {
+     "label": "C8",
+     "group": 1,
+     "number": "715275"
+    },
+    {
+     "label": "D8",
+     "group": 3,
+     "number": "991556"
+    },
+    {
+     "label": "E8",
+     "group": 2,
+     "number": "994295"
+    },
+    {
+     "label": "A9",
+     "group": 5,
+     "number": "010645"
+    },
+    {
+     "label": "B9",
+     "group": 2,
+     "number": "019445"
+    },
+    {
+     "label": "C9",
+     "group": 1,
+     "number": "030495"
+    },
+    {
+     "label": "D9",
+     "group": 1,
+     "number": "474485"
+    },
+    {
+     "label": "E9",
+     "group": 5,
+     "number": "708796"
+    },
+    {
+     "label": "A10",
+     "group": 4,
+     "number": "959149"
+    },
+    {
+     "label": "B10",
+     "group": 1,
+     "number": "149904"
+    },
+    {
+     "label": "C10",
+     "group": 1,
+     "number": "134061"
+    },
+    {
+     "label": "D10",
+     "group": 5,
+     "number": "402700"
+    },
+    {
+     "label": "E10",
+     "group": 5,
+     "number": "369496"
     }
    ],
    "note": "병오년 기해월 경인일 — 일간 庚(금) 기운. 토·금·수 오행 번호에 힘을 실었습니다."
@@ -156,9 +1056,235 @@
      "label": "E",
      "group": 1,
      "number": "552719"
+    },
+    {
+     "label": "A2",
+     "group": 3,
+     "number": "238125"
+    },
+    {
+     "label": "B2",
+     "group": 1,
+     "number": "779330"
+    },
+    {
+     "label": "C2",
+     "group": 2,
+     "number": "726246"
+    },
+    {
+     "label": "D2",
+     "group": 5,
+     "number": "942268"
+    },
+    {
+     "label": "E2",
+     "group": 2,
+     "number": "948492"
+    },
+    {
+     "label": "A3",
+     "group": 4,
+     "number": "063899"
+    },
+    {
+     "label": "B3",
+     "group": 4,
+     "number": "546894"
+    },
+    {
+     "label": "C3",
+     "group": 5,
+     "number": "376114"
+    },
+    {
+     "label": "D3",
+     "group": 5,
+     "number": "083733"
+    },
+    {
+     "label": "E3",
+     "group": 4,
+     "number": "494991"
+    },
+    {
+     "label": "A4",
+     "group": 4,
+     "number": "340315"
+    },
+    {
+     "label": "B4",
+     "group": 1,
+     "number": "465369"
+    },
+    {
+     "label": "C4",
+     "group": 2,
+     "number": "097335"
+    },
+    {
+     "label": "D4",
+     "group": 3,
+     "number": "053724"
+    },
+    {
+     "label": "E4",
+     "group": 3,
+     "number": "817451"
+    },
+    {
+     "label": "A5",
+     "group": 2,
+     "number": "150821"
+    },
+    {
+     "label": "B5",
+     "group": 2,
+     "number": "673285"
+    },
+    {
+     "label": "C5",
+     "group": 3,
+     "number": "965004"
+    },
+    {
+     "label": "D5",
+     "group": 1,
+     "number": "441096"
+    },
+    {
+     "label": "E5",
+     "group": 5,
+     "number": "388685"
+    },
+    {
+     "label": "A6",
+     "group": 1,
+     "number": "412947"
+    },
+    {
+     "label": "B6",
+     "group": 3,
+     "number": "605102"
+    },
+    {
+     "label": "C6",
+     "group": 5,
+     "number": "551348"
+    },
+    {
+     "label": "D6",
+     "group": 3,
+     "number": "560090"
+    },
+    {
+     "label": "E6",
+     "group": 5,
+     "number": "237960"
+    },
+    {
+     "label": "A7",
+     "group": 4,
+     "number": "353122"
+    },
+    {
+     "label": "B7",
+     "group": 4,
+     "number": "437501"
+    },
+    {
+     "label": "C7",
+     "group": 2,
+     "number": "574451"
+    },
+    {
+     "label": "D7",
+     "group": 5,
+     "number": "004915"
+    },
+    {
+     "label": "E7",
+     "group": 5,
+     "number": "892107"
+    },
+    {
+     "label": "A8",
+     "group": 3,
+     "number": "816663"
+    },
+    {
+     "label": "B8",
+     "group": 5,
+     "number": "987711"
+    },
+    {
+     "label": "C8",
+     "group": 3,
+     "number": "981553"
+    },
+    {
+     "label": "D8",
+     "group": 5,
+     "number": "324977"
+    },
+    {
+     "label": "E8",
+     "group": 3,
+     "number": "711260"
+    },
+    {
+     "label": "A9",
+     "group": 5,
+     "number": "634061"
+    },
+    {
+     "label": "B9",
+     "group": 4,
+     "number": "617489"
+    },
+    {
+     "label": "C9",
+     "group": 4,
+     "number": "592753"
+    },
+    {
+     "label": "D9",
+     "group": 2,
+     "number": "865331"
+    },
+    {
+     "label": "E9",
+     "group": 3,
+     "number": "480117"
+    },
+    {
+     "label": "A10",
+     "group": 5,
+     "number": "705976"
+    },
+    {
+     "label": "B10",
+     "group": 1,
+     "number": "250341"
+    },
+    {
+     "label": "C10",
+     "group": 1,
+     "number": "213456"
+    },
+    {
+     "label": "D10",
+     "group": 3,
+     "number": "271881"
+    },
+    {
+     "label": "E10",
+     "group": 5,
+     "number": "307789"
     }
    ],
    "note": "균등 확률. 비교 기준용"
   }
- ]
+ ],
+ "extendedAt": "2026-11-10T14:27:29.718Z"
 }
