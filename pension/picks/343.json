@@ -1,0 +1,1289 @@
+{
+ "round": 343,
+ "drawDate": "2026-11-26",
+ "basedOnRound": 342,
+ "publishedAt": "2026-11-19T11:13:06.219Z",
+ "mode": "live",
+ "picks": [
+  {
+   "strategy": "hot",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 4,
+     "number": "694122"
+    },
+    {
+     "label": "B",
+     "group": 3,
+     "number": "216532"
+    },
+    {
+     "label": "C",
+     "group": 2,
+     "number": "208916"
+    },
+    {
+     "label": "D",
+     "group": 3,
+     "number": "204322"
+    },
+    {
+     "label": "E",
+     "group": 4,
+     "number": "198922"
+    },
+    {
+     "label": "A2",
+     "group": 2,
+     "number": "692410"
+    },
+    {
+     "label": "B2",
+     "group": 3,
+     "number": "694312"
+    },
+    {
+     "label": "C2",
+     "group": 2,
+     "number": "291332"
+    },
+    {
+     "label": "D2",
+     "group": 5,
+     "number": "614583"
+    },
+    {
+     "label": "E2",
+     "group": 2,
+     "number": "201344"
+    },
+    {
+     "label": "A3",
+     "group": 1,
+     "number": "096712"
+    },
+    {
+     "label": "B3",
+     "group": 3,
+     "number": "455322"
+    },
+    {
+     "label": "C3",
+     "group": 1,
+     "number": "594311"
+    },
+    {
+     "label": "D3",
+     "group": 5,
+     "number": "606702"
+    },
+    {
+     "label": "E3",
+     "group": 2,
+     "number": "154910"
+    },
+    {
+     "label": "A4",
+     "group": 4,
+     "number": "094730"
+    },
+    {
+     "label": "B4",
+     "group": 1,
+     "number": "646512"
+    },
+    {
+     "label": "C4",
+     "group": 3,
+     "number": "176955"
+    },
+    {
+     "label": "D4",
+     "group": 3,
+     "number": "638362"
+    },
+    {
+     "label": "E4",
+     "group": 5,
+     "number": "195382"
+    },
+    {
+     "label": "A5",
+     "group": 5,
+     "number": "694911"
+    },
+    {
+     "label": "B5",
+     "group": 2,
+     "number": "858393"
+    },
+    {
+     "label": "C5",
+     "group": 4,
+     "number": "266913"
+    },
+    {
+     "label": "D5",
+     "group": 3,
+     "number": "156864"
+    },
+    {
+     "label": "E5",
+     "group": 4,
+     "number": "081324"
+    },
+    {
+     "label": "A6",
+     "group": 3,
+     "number": "652702"
+    },
+    {
+     "label": "B6",
+     "group": 1,
+     "number": "601379"
+    },
+    {
+     "label": "C6",
+     "group": 5,
+     "number": "691339"
+    },
+    {
+     "label": "D6",
+     "group": 3,
+     "number": "146932"
+    },
+    {
+     "label": "E6",
+     "group": 3,
+     "number": "111319"
+    },
+    {
+     "label": "A7",
+     "group": 3,
+     "number": "051713"
+    },
+    {
+     "label": "B7",
+     "group": 3,
+     "number": "141525"
+    },
+    {
+     "label": "C7",
+     "group": 4,
+     "number": "016315"
+    },
+    {
+     "label": "D7",
+     "group": 2,
+     "number": "181992"
+    },
+    {
+     "label": "E7",
+     "group": 5,
+     "number": "656323"
+    },
+    {
+     "label": "A8",
+     "group": 3,
+     "number": "299301"
+    },
+    {
+     "label": "B8",
+     "group": 4,
+     "number": "794939"
+    },
+    {
+     "label": "C8",
+     "group": 3,
+     "number": "651911"
+    },
+    {
+     "label": "D8",
+     "group": 1,
+     "number": "118782"
+    },
+    {
+     "label": "E8",
+     "group": 4,
+     "number": "608383"
+    },
+    {
+     "label": "A9",
+     "group": 5,
+     "number": "392575"
+    },
+    {
+     "label": "B9",
+     "group": 3,
+     "number": "046925"
+    },
+    {
+     "label": "C9",
+     "group": 2,
+     "number": "324912"
+    },
+    {
+     "label": "D9",
+     "group": 1,
+     "number": "159702"
+    },
+    {
+     "label": "E9",
+     "group": 4,
+     "number": "654589"
+    },
+    {
+     "label": "A10",
+     "group": 2,
+     "number": "097338"
+    },
+    {
+     "label": "B10",
+     "group": 3,
+     "number": "104970"
+    },
+    {
+     "label": "C10",
+     "group": 3,
+     "number": "056812"
+    },
+    {
+     "label": "D10",
+     "group": 4,
+     "number": "214914"
+    },
+    {
+     "label": "E10",
+     "group": 5,
+     "number": "604592"
+    }
+   ],
+   "note": "최근 24회 최다 조: 3조(9회) · 끝자리 최다: 2"
+  },
+  {
+   "strategy": "cold",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 1,
+     "number": "845467"
+    },
+    {
+     "label": "B",
+     "group": 5,
+     "number": "772667"
+    },
+    {
+     "label": "C",
+     "group": 4,
+     "number": "843767"
+    },
+    {
+     "label": "D",
+     "group": 2,
+     "number": "842278"
+    },
+    {
+     "label": "E",
+     "group": 2,
+     "number": "273640"
+    },
+    {
+     "label": "A2",
+     "group": 5,
+     "number": "913267"
+    },
+    {
+     "label": "B2",
+     "group": 2,
+     "number": "380683"
+    },
+    {
+     "label": "C2",
+     "group": 5,
+     "number": "473464"
+    },
+    {
+     "label": "D2",
+     "group": 5,
+     "number": "577466"
+    },
+    {
+     "label": "E2",
+     "group": 3,
+     "number": "873405"
+    },
+    {
+     "label": "A3",
+     "group": 1,
+     "number": "828663"
+    },
+    {
+     "label": "B3",
+     "group": 1,
+     "number": "277480"
+    },
+    {
+     "label": "C3",
+     "group": 2,
+     "number": "873603"
+    },
+    {
+     "label": "D3",
+     "group": 3,
+     "number": "463608"
+    },
+    {
+     "label": "E3",
+     "group": 2,
+     "number": "472487"
+    },
+    {
+     "label": "A4",
+     "group": 3,
+     "number": "270608"
+    },
+    {
+     "label": "B4",
+     "group": 3,
+     "number": "873468"
+    },
+    {
+     "label": "C4",
+     "group": 2,
+     "number": "970668"
+    },
+    {
+     "label": "D4",
+     "group": 1,
+     "number": "413608"
+    },
+    {
+     "label": "E4",
+     "group": 4,
+     "number": "483460"
+    },
+    {
+     "label": "A5",
+     "group": 3,
+     "number": "577468"
+    },
+    {
+     "label": "B5",
+     "group": 3,
+     "number": "543767"
+    },
+    {
+     "label": "C5",
+     "group": 1,
+     "number": "503656"
+    },
+    {
+     "label": "D5",
+     "group": 4,
+     "number": "477288"
+    },
+    {
+     "label": "E5",
+     "group": 3,
+     "number": "973367"
+    },
+    {
+     "label": "A6",
+     "group": 3,
+     "number": "713863"
+    },
+    {
+     "label": "B6",
+     "group": 5,
+     "number": "477688"
+    },
+    {
+     "label": "C6",
+     "group": 5,
+     "number": "570668"
+    },
+    {
+     "label": "D6",
+     "group": 1,
+     "number": "173000"
+    },
+    {
+     "label": "E6",
+     "group": 1,
+     "number": "573667"
+    },
+    {
+     "label": "A7",
+     "group": 5,
+     "number": "873268"
+    },
+    {
+     "label": "B7",
+     "group": 1,
+     "number": "873257"
+    },
+    {
+     "label": "C7",
+     "group": 5,
+     "number": "877240"
+    },
+    {
+     "label": "D7",
+     "group": 4,
+     "number": "372667"
+    },
+    {
+     "label": "E7",
+     "group": 1,
+     "number": "873008"
+    },
+    {
+     "label": "A8",
+     "group": 3,
+     "number": "577667"
+    },
+    {
+     "label": "B8",
+     "group": 4,
+     "number": "475407"
+    },
+    {
+     "label": "C8",
+     "group": 2,
+     "number": "583667"
+    },
+    {
+     "label": "D8",
+     "group": 2,
+     "number": "273267"
+    },
+    {
+     "label": "E8",
+     "group": 4,
+     "number": "663607"
+    },
+    {
+     "label": "A9",
+     "group": 1,
+     "number": "827666"
+    },
+    {
+     "label": "B9",
+     "group": 3,
+     "number": "587649"
+    },
+    {
+     "label": "C9",
+     "group": 5,
+     "number": "580506"
+    },
+    {
+     "label": "D9",
+     "group": 2,
+     "number": "812457"
+    },
+    {
+     "label": "E9",
+     "group": 3,
+     "number": "475466"
+    },
+    {
+     "label": "A10",
+     "group": 4,
+     "number": "577688"
+    },
+    {
+     "label": "B10",
+     "group": 1,
+     "number": "413276"
+    },
+    {
+     "label": "C10",
+     "group": 4,
+     "number": "910468"
+    },
+    {
+     "label": "D10",
+     "group": 5,
+     "number": "980465"
+    },
+    {
+     "label": "E10",
+     "group": 5,
+     "number": "883673"
+    }
+   ],
+   "note": "자리별 가장 오래 안 나온 숫자: 873668"
+  },
+  {
+   "strategy": "balanced",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 2,
+     "number": "582170"
+    },
+    {
+     "label": "B",
+     "group": 5,
+     "number": "952573"
+    },
+    {
+     "label": "C",
+     "group": 2,
+     "number": "453775"
+    },
+    {
+     "label": "D",
+     "group": 1,
+     "number": "902852"
+    },
+    {
+     "label": "E",
+     "group": 5,
+     "number": "918062"
+    },
+    {
+     "label": "A2",
+     "group": 3,
+     "number": "914722"
+    },
+    {
+     "label": "B2",
+     "group": 2,
+     "number": "802961"
+    },
+    {
+     "label": "C2",
+     "group": 3,
+     "number": "687284"
+    },
+    {
+     "label": "D2",
+     "group": 4,
+     "number": "972762"
+    },
+    {
+     "label": "E2",
+     "group": 2,
+     "number": "437147"
+    },
+    {
+     "label": "A3",
+     "group": 2,
+     "number": "473316"
+    },
+    {
+     "label": "B3",
+     "group": 5,
+     "number": "121509"
+    },
+    {
+     "label": "C3",
+     "group": 2,
+     "number": "044557"
+    },
+    {
+     "label": "D3",
+     "group": 5,
+     "number": "477392"
+    },
+    {
+     "label": "E3",
+     "group": 4,
+     "number": "980295"
+    },
+    {
+     "label": "A4",
+     "group": 1,
+     "number": "970386"
+    },
+    {
+     "label": "B4",
+     "group": 3,
+     "number": "933729"
+    },
+    {
+     "label": "C4",
+     "group": 4,
+     "number": "728291"
+    },
+    {
+     "label": "D4",
+     "group": 1,
+     "number": "537929"
+    },
+    {
+     "label": "E4",
+     "group": 4,
+     "number": "304568"
+    },
+    {
+     "label": "A5",
+     "group": 2,
+     "number": "805874"
+    },
+    {
+     "label": "B5",
+     "group": 3,
+     "number": "149563"
+    },
+    {
+     "label": "C5",
+     "group": 4,
+     "number": "009657"
+    },
+    {
+     "label": "D5",
+     "group": 1,
+     "number": "502898"
+    },
+    {
+     "label": "E5",
+     "group": 3,
+     "number": "132584"
+    },
+    {
+     "label": "A6",
+     "group": 2,
+     "number": "914857"
+    },
+    {
+     "label": "B6",
+     "group": 2,
+     "number": "847736"
+    },
+    {
+     "label": "C6",
+     "group": 5,
+     "number": "920278"
+    },
+    {
+     "label": "D6",
+     "group": 2,
+     "number": "639860"
+    },
+    {
+     "label": "E6",
+     "group": 4,
+     "number": "433860"
+    },
+    {
+     "label": "A7",
+     "group": 5,
+     "number": "833577"
+    },
+    {
+     "label": "B7",
+     "group": 2,
+     "number": "974652"
+    },
+    {
+     "label": "C7",
+     "group": 4,
+     "number": "728340"
+    },
+    {
+     "label": "D7",
+     "group": 3,
+     "number": "149653"
+    },
+    {
+     "label": "E7",
+     "group": 2,
+     "number": "702448"
+    },
+    {
+     "label": "A8",
+     "group": 5,
+     "number": "493930"
+    },
+    {
+     "label": "B8",
+     "group": 3,
+     "number": "088075"
+    },
+    {
+     "label": "C8",
+     "group": 2,
+     "number": "253675"
+    },
+    {
+     "label": "D8",
+     "group": 1,
+     "number": "134973"
+    },
+    {
+     "label": "E8",
+     "group": 5,
+     "number": "366212"
+    },
+    {
+     "label": "A9",
+     "group": 4,
+     "number": "513972"
+    },
+    {
+     "label": "B9",
+     "group": 4,
+     "number": "906955"
+    },
+    {
+     "label": "C9",
+     "group": 2,
+     "number": "553860"
+    },
+    {
+     "label": "D9",
+     "group": 1,
+     "number": "104726"
+    },
+    {
+     "label": "E9",
+     "group": 4,
+     "number": "451652"
+    },
+    {
+     "label": "A10",
+     "group": 5,
+     "number": "572298"
+    },
+    {
+     "label": "B10",
+     "group": 3,
+     "number": "187275"
+    },
+    {
+     "label": "C10",
+     "group": 5,
+     "number": "274559"
+    },
+    {
+     "label": "D10",
+     "group": 4,
+     "number": "980170"
+    },
+    {
+     "label": "E10",
+     "group": 5,
+     "number": "597902"
+    }
+   ],
+   "note": "자릿수 합 18~36, 같은 숫자 3회 이상 반복 없음"
+  },
+  {
+   "strategy": "saju",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 5,
+     "number": "118281"
+    },
+    {
+     "label": "B",
+     "group": 5,
+     "number": "778112"
+    },
+    {
+     "label": "C",
+     "group": 2,
+     "number": "116688"
+    },
+    {
+     "label": "D",
+     "group": 3,
+     "number": "782811"
+    },
+    {
+     "label": "E",
+     "group": 3,
+     "number": "731286"
+    },
+    {
+     "label": "A2",
+     "group": 5,
+     "number": "283763"
+    },
+    {
+     "label": "B2",
+     "group": 2,
+     "number": "778361"
+    },
+    {
+     "label": "C2",
+     "group": 5,
+     "number": "778877"
+    },
+    {
+     "label": "D2",
+     "group": 1,
+     "number": "000286"
+    },
+    {
+     "label": "E2",
+     "group": 3,
+     "number": "663878"
+    },
+    {
+     "label": "A3",
+     "group": 5,
+     "number": "283212"
+    },
+    {
+     "label": "B3",
+     "group": 5,
+     "number": "580133"
+    },
+    {
+     "label": "C3",
+     "group": 4,
+     "number": "265332"
+    },
+    {
+     "label": "D3",
+     "group": 5,
+     "number": "888848"
+    },
+    {
+     "label": "E3",
+     "group": 5,
+     "number": "836213"
+    },
+    {
+     "label": "A4",
+     "group": 2,
+     "number": "988102"
+    },
+    {
+     "label": "B4",
+     "group": 3,
+     "number": "876655"
+    },
+    {
+     "label": "C4",
+     "group": 2,
+     "number": "876167"
+    },
+    {
+     "label": "D4",
+     "group": 5,
+     "number": "379388"
+    },
+    {
+     "label": "E4",
+     "group": 4,
+     "number": "338235"
+    },
+    {
+     "label": "A5",
+     "group": 2,
+     "number": "311100"
+    },
+    {
+     "label": "B5",
+     "group": 5,
+     "number": "370596"
+    },
+    {
+     "label": "C5",
+     "group": 3,
+     "number": "626448"
+    },
+    {
+     "label": "D5",
+     "group": 2,
+     "number": "631258"
+    },
+    {
+     "label": "E5",
+     "group": 4,
+     "number": "308743"
+    },
+    {
+     "label": "A6",
+     "group": 5,
+     "number": "381856"
+    },
+    {
+     "label": "B6",
+     "group": 1,
+     "number": "078827"
+    },
+    {
+     "label": "C6",
+     "group": 4,
+     "number": "287101"
+    },
+    {
+     "label": "D6",
+     "group": 4,
+     "number": "288123"
+    },
+    {
+     "label": "E6",
+     "group": 2,
+     "number": "362856"
+    },
+    {
+     "label": "A7",
+     "group": 4,
+     "number": "876138"
+    },
+    {
+     "label": "B7",
+     "group": 1,
+     "number": "372338"
+    },
+    {
+     "label": "C7",
+     "group": 5,
+     "number": "310487"
+    },
+    {
+     "label": "D7",
+     "group": 4,
+     "number": "681105"
+    },
+    {
+     "label": "E7",
+     "group": 1,
+     "number": "823096"
+    },
+    {
+     "label": "A8",
+     "group": 2,
+     "number": "161871"
+    },
+    {
+     "label": "B8",
+     "group": 3,
+     "number": "564667"
+    },
+    {
+     "label": "C8",
+     "group": 3,
+     "number": "186323"
+    },
+    {
+     "label": "D8",
+     "group": 4,
+     "number": "585413"
+    },
+    {
+     "label": "E8",
+     "group": 3,
+     "number": "275248"
+    },
+    {
+     "label": "A9",
+     "group": 4,
+     "number": "030737"
+    },
+    {
+     "label": "B9",
+     "group": 1,
+     "number": "813111"
+    },
+    {
+     "label": "C9",
+     "group": 5,
+     "number": "687801"
+    },
+    {
+     "label": "D9",
+     "group": 4,
+     "number": "622337"
+    },
+    {
+     "label": "E9",
+     "group": 1,
+     "number": "676383"
+    },
+    {
+     "label": "A10",
+     "group": 5,
+     "number": "811736"
+    },
+    {
+     "label": "B10",
+     "group": 4,
+     "number": "138362"
+    },
+    {
+     "label": "C10",
+     "group": 3,
+     "number": "721328"
+    },
+    {
+     "label": "D10",
+     "group": 4,
+     "number": "918237"
+    },
+    {
+     "label": "E10",
+     "group": 4,
+     "number": "329301"
+    }
+   ],
+   "note": "병오년 기해월 갑진일 — 일간 甲(목) 기운. 수·목·화 오행 번호에 힘을 실었습니다."
+  },
+  {
+   "strategy": "random",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 3,
+     "number": "509020"
+    },
+    {
+     "label": "B",
+     "group": 1,
+     "number": "295149"
+    },
+    {
+     "label": "C",
+     "group": 1,
+     "number": "894468"
+    },
+    {
+     "label": "D",
+     "group": 2,
+     "number": "609373"
+    },
+    {
+     "label": "E",
+     "group": 2,
+     "number": "892434"
+    },
+    {
+     "label": "A2",
+     "group": 5,
+     "number": "934572"
+    },
+    {
+     "label": "B2",
+     "group": 3,
+     "number": "937021"
+    },
+    {
+     "label": "C2",
+     "group": 4,
+     "number": "997804"
+    },
+    {
+     "label": "D2",
+     "group": 3,
+     "number": "459315"
+    },
+    {
+     "label": "E2",
+     "group": 2,
+     "number": "391145"
+    },
+    {
+     "label": "A3",
+     "group": 5,
+     "number": "761365"
+    },
+    {
+     "label": "B3",
+     "group": 2,
+     "number": "805899"
+    },
+    {
+     "label": "C3",
+     "group": 2,
+     "number": "269972"
+    },
+    {
+     "label": "D3",
+     "group": 1,
+     "number": "949235"
+    },
+    {
+     "label": "E3",
+     "group": 2,
+     "number": "378374"
+    },
+    {
+     "label": "A4",
+     "group": 3,
+     "number": "642523"
+    },
+    {
+     "label": "B4",
+     "group": 5,
+     "number": "171302"
+    },
+    {
+     "label": "C4",
+     "group": 2,
+     "number": "173533"
+    },
+    {
+     "label": "D4",
+     "group": 2,
+     "number": "852325"
+    },
+    {
+     "label": "E4",
+     "group": 3,
+     "number": "032038"
+    },
+    {
+     "label": "A5",
+     "group": 2,
+     "number": "733230"
+    },
+    {
+     "label": "B5",
+     "group": 1,
+     "number": "818839"
+    },
+    {
+     "label": "C5",
+     "group": 1,
+     "number": "880715"
+    },
+    {
+     "label": "D5",
+     "group": 1,
+     "number": "525346"
+    },
+    {
+     "label": "E5",
+     "group": 2,
+     "number": "960825"
+    },
+    {
+     "label": "A6",
+     "group": 4,
+     "number": "180128"
+    },
+    {
+     "label": "B6",
+     "group": 3,
+     "number": "031650"
+    },
+    {
+     "label": "C6",
+     "group": 4,
+     "number": "696687"
+    },
+    {
+     "label": "D6",
+     "group": 4,
+     "number": "575303"
+    },
+    {
+     "label": "E6",
+     "group": 5,
+     "number": "792358"
+    },
+    {
+     "label": "A7",
+     "group": 5,
+     "number": "196591"
+    },
+    {
+     "label": "B7",
+     "group": 5,
+     "number": "014970"
+    },
+    {
+     "label": "C7",
+     "group": 3,
+     "number": "413965"
+    },
+    {
+     "label": "D7",
+     "group": 4,
+     "number": "529080"
+    },
+    {
+     "label": "E7",
+     "group": 3,
+     "number": "895864"
+    },
+    {
+     "label": "A8",
+     "group": 1,
+     "number": "310858"
+    },
+    {
+     "label": "B8",
+     "group": 2,
+     "number": "560538"
+    },
+    {
+     "label": "C8",
+     "group": 4,
+     "number": "500507"
+    },
+    {
+     "label": "D8",
+     "group": 1,
+     "number": "713894"
+    },
+    {
+     "label": "E8",
+     "group": 5,
+     "number": "406232"
+    },
+    {
+     "label": "A9",
+     "group": 4,
+     "number": "160778"
+    },
+    {
+     "label": "B9",
+     "group": 3,
+     "number": "101409"
+    },
+    {
+     "label": "C9",
+     "group": 4,
+     "number": "712700"
+    },
+    {
+     "label": "D9",
+     "group": 1,
+     "number": "248169"
+    },
+    {
+     "label": "E9",
+     "group": 4,
+     "number": "652352"
+    },
+    {
+     "label": "A10",
+     "group": 5,
+     "number": "063607"
+    },
+    {
+     "label": "B10",
+     "group": 1,
+     "number": "763185"
+    },
+    {
+     "label": "C10",
+     "group": 4,
+     "number": "506856"
+    },
+    {
+     "label": "D10",
+     "group": 3,
+     "number": "875345"
+    },
+    {
+     "label": "E10",
+     "group": 3,
+     "number": "708394"
+    }
+   ],
+   "note": "균등 확률. 비교 기준용"
+  }
+ ]
+}
