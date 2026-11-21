@@ -1,0 +1,4437 @@
+{
+ "round": 1251,
+ "draw": {
+  "round": 1251,
+  "date": "2026-11-21",
+  "nums": [
+   14,
+   18,
+   19,
+   29,
+   40,
+   45
+  ],
+  "bonus": 1,
+  "winners": [
+   14,
+   96,
+   2851,
+   146963,
+   2505977
+  ],
+  "prizes": [
+   2068843286,
+   50284386,
+   1693196,
+   50000,
+   5000
+  ],
+  "sales": 116992886000,
+  "pool": 58496443856
+ },
+ "mode": "live",
+ "publishedAt": "2026-11-14T18:05:38.721Z",
+ "reviewedAt": "2026-11-21T12:17:04.310Z",
+ "results": [
+  {
+   "strategy": "hot",
+   "games": [
+    {
+     "label": "A",
+     "nums": [
+      13,
+      34,
+      35,
+      38,
+      41,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B",
+     "nums": [
+      4,
+      5,
+      14,
+      31,
+      38,
+      44
+     ],
+     "matched": [
+      14
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C",
+     "nums": [
+      13,
+      18,
+      31,
+      34,
+      40,
+      44
+     ],
+     "matched": [
+      18,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D",
+     "nums": [
+      1,
+      2,
+      11,
+      26,
+      32,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E",
+     "nums": [
+      2,
+      16,
+      18,
+      27,
+      38,
+      43
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A2",
+     "nums": [
+      9,
+      16,
+      18,
+      29,
+      34,
+      35
+     ],
+     "matched": [
+      18,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B2",
+     "nums": [
+      7,
+      18,
+      19,
+      24,
+      26,
+      34
+     ],
+     "matched": [
+      18,
+      19
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C2",
+     "nums": [
+      14,
+      20,
+      31,
+      34,
+      41,
+      43
+     ],
+     "matched": [
+      14
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D2",
+     "nums": [
+      6,
+      25,
+      28,
+      31,
+      42,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E2",
+     "nums": [
+      4,
+      5,
+      9,
+      10,
+      16,
+      18
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A3",
+     "nums": [
+      7,
+      8,
+      13,
+      15,
+      38,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B3",
+     "nums": [
+      15,
+      18,
+      22,
+      27,
+      30,
+      38
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C3",
+     "nums": [
+      12,
+      18,
+      24,
+      34,
+      43,
+      44
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D3",
+     "nums": [
+      7,
+      21,
+      22,
+      23,
+      32,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E3",
+     "nums": [
+      16,
+      27,
+      28,
+      34,
+      42,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A4",
+     "nums": [
+      2,
+      11,
+      13,
+      18,
+      31,
+      38
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B4",
+     "nums": [
+      4,
+      16,
+      25,
+      27,
+      28,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C4",
+     "nums": [
+      9,
+      18,
+      24,
+      32,
+      38,
+      44
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D4",
+     "nums": [
+      2,
+      16,
+      22,
+      24,
+      34,
+      36
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E4",
+     "nums": [
+      13,
+      18,
+      22,
+      23,
+      24,
+      42
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A5",
+     "nums": [
+      3,
+      20,
+      23,
+      36,
+      41,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B5",
+     "nums": [
+      6,
+      14,
+      16,
+      25,
+      38,
+      39
+     ],
+     "matched": [
+      14
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C5",
+     "nums": [
+      7,
+      18,
+      22,
+      34,
+      36,
+      38
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D5",
+     "nums": [
+      8,
+      12,
+      13,
+      27,
+      28,
+      30
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E5",
+     "nums": [
+      10,
+      16,
+      23,
+      27,
+      34,
+      38
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A6",
+     "nums": [
+      1,
+      4,
+      14,
+      25,
+      38,
+      42
+     ],
+     "matched": [
+      14
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B6",
+     "nums": [
+      4,
+      13,
+      18,
+      26,
+      31,
+      41
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C6",
+     "nums": [
+      1,
+      4,
+      5,
+      18,
+      31,
+      42
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D6",
+     "nums": [
+      10,
+      11,
+      18,
+      24,
+      42,
+      44
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E6",
+     "nums": [
+      13,
+      15,
+      18,
+      22,
+      28,
+      43
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A7",
+     "nums": [
+      7,
+      13,
+      16,
+      18,
+      24,
+      37
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B7",
+     "nums": [
+      16,
+      21,
+      28,
+      34,
+      35,
+      36
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C7",
+     "nums": [
+      2,
+      16,
+      18,
+      20,
+      22,
+      44
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D7",
+     "nums": [
+      7,
+      14,
+      21,
+      28,
+      34,
+      42
+     ],
+     "matched": [
+      14
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E7",
+     "nums": [
+      4,
+      8,
+      13,
+      23,
+      35,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A8",
+     "nums": [
+      1,
+      7,
+      18,
+      34,
+      35,
+      43
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B8",
+     "nums": [
+      1,
+      2,
+      13,
+      18,
+      25,
+      38
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C8",
+     "nums": [
+      1,
+      11,
+      13,
+      16,
+      18,
+      34
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D8",
+     "nums": [
+      11,
+      16,
+      23,
+      24,
+      32,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E8",
+     "nums": [
+      18,
+      22,
+      23,
+      24,
+      34,
+      35
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A9",
+     "nums": [
+      13,
+      14,
+      18,
+      24,
+      36,
+      44
+     ],
+     "matched": [
+      14,
+      18
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B9",
+     "nums": [
+      13,
+      16,
+      18,
+      23,
+      24,
+      25
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C9",
+     "nums": [
+      11,
+      23,
+      36,
+      38,
+      40,
+      43
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D9",
+     "nums": [
+      8,
+      22,
+      24,
+      38,
+      43,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E9",
+     "nums": [
+      11,
+      13,
+      16,
+      24,
+      32,
+      39
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A10",
+     "nums": [
+      4,
+      13,
+      16,
+      24,
+      25,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B10",
+     "nums": [
+      3,
+      25,
+      28,
+      29,
+      31,
+      36
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C10",
+     "nums": [
+      8,
+      13,
+      24,
+      31,
+      38,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D10",
+     "nums": [
+      9,
+      13,
+      16,
+      34,
+      38,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E10",
+     "nums": [
+      15,
+      18,
+      22,
+      31,
+      34,
+      42
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    }
+   ]
+  },
+  {
+   "strategy": "cold",
+   "games": [
+    {
+     "label": "A",
+     "nums": [
+      6,
+      7,
+      17,
+      32,
+      39,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B",
+     "nums": [
+      3,
+      9,
+      15,
+      31,
+      39,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C",
+     "nums": [
+      6,
+      8,
+      12,
+      37,
+      41,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D",
+     "nums": [
+      3,
+      6,
+      10,
+      17,
+      30,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E",
+     "nums": [
+      13,
+      17,
+      19,
+      20,
+      22,
+      40
+     ],
+     "matched": [
+      19,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A2",
+     "nums": [
+      3,
+      12,
+      19,
+      26,
+      29,
+      39
+     ],
+     "matched": [
+      19,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B2",
+     "nums": [
+      3,
+      15,
+      17,
+      20,
+      33,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C2",
+     "nums": [
+      3,
+      6,
+      8,
+      9,
+      15,
+      30
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D2",
+     "nums": [
+      6,
+      7,
+      15,
+      17,
+      39,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E2",
+     "nums": [
+      7,
+      12,
+      13,
+      15,
+      17,
+      45
+     ],
+     "matched": [
+      45
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A3",
+     "nums": [
+      12,
+      24,
+      37,
+      38,
+      43,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B3",
+     "nums": [
+      3,
+      17,
+      26,
+      29,
+      33,
+      37
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C3",
+     "nums": [
+      4,
+      6,
+      12,
+      17,
+      39,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D3",
+     "nums": [
+      9,
+      13,
+      17,
+      19,
+      29,
+      39
+     ],
+     "matched": [
+      19,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E3",
+     "nums": [
+      3,
+      6,
+      17,
+      29,
+      34,
+      43
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A4",
+     "nums": [
+      3,
+      6,
+      12,
+      30,
+      31,
+      37
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B4",
+     "nums": [
+      3,
+      10,
+      17,
+      20,
+      39,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C4",
+     "nums": [
+      6,
+      13,
+      17,
+      30,
+      39,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D4",
+     "nums": [
+      3,
+      17,
+      29,
+      30,
+      31,
+      37
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E4",
+     "nums": [
+      3,
+      17,
+      19,
+      22,
+      40,
+      44
+     ],
+     "matched": [
+      19,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A5",
+     "nums": [
+      3,
+      10,
+      19,
+      30,
+      33,
+      38
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B5",
+     "nums": [
+      3,
+      9,
+      12,
+      15,
+      19,
+      30
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C5",
+     "nums": [
+      3,
+      9,
+      12,
+      20,
+      30,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D5",
+     "nums": [
+      6,
+      15,
+      33,
+      41,
+      44,
+      45
+     ],
+     "matched": [
+      45
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E5",
+     "nums": [
+      6,
+      26,
+      29,
+      30,
+      39,
+      40
+     ],
+     "matched": [
+      29,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A6",
+     "nums": [
+      4,
+      15,
+      17,
+      20,
+      29,
+      43
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B6",
+     "nums": [
+      3,
+      12,
+      15,
+      30,
+      40,
+      44
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C6",
+     "nums": [
+      3,
+      15,
+      17,
+      19,
+      32,
+      44
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D6",
+     "nums": [
+      13,
+      15,
+      17,
+      29,
+      31,
+      39
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E6",
+     "nums": [
+      12,
+      15,
+      17,
+      19,
+      29,
+      33
+     ],
+     "matched": [
+      19,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A7",
+     "nums": [
+      3,
+      17,
+      30,
+      33,
+      41,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B7",
+     "nums": [
+      3,
+      6,
+      17,
+      26,
+      29,
+      39
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C7",
+     "nums": [
+      3,
+      12,
+      29,
+      30,
+      32,
+      40
+     ],
+     "matched": [
+      29,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D7",
+     "nums": [
+      6,
+      15,
+      17,
+      29,
+      37,
+      39
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E7",
+     "nums": [
+      17,
+      19,
+      24,
+      31,
+      33,
+      40
+     ],
+     "matched": [
+      19,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A8",
+     "nums": [
+      3,
+      4,
+      6,
+      19,
+      29,
+      40
+     ],
+     "matched": [
+      19,
+      29,
+      40
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "B8",
+     "nums": [
+      9,
+      15,
+      21,
+      29,
+      39,
+      40
+     ],
+     "matched": [
+      29,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C8",
+     "nums": [
+      3,
+      10,
+      12,
+      16,
+      27,
+      39
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D8",
+     "nums": [
+      3,
+      12,
+      17,
+      20,
+      32,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E8",
+     "nums": [
+      3,
+      6,
+      17,
+      20,
+      30,
+      32
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A9",
+     "nums": [
+      4,
+      17,
+      29,
+      30,
+      40,
+      45
+     ],
+     "matched": [
+      29,
+      40,
+      45
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "B9",
+     "nums": [
+      17,
+      18,
+      29,
+      37,
+      39,
+      45
+     ],
+     "matched": [
+      18,
+      29,
+      45
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "C9",
+     "nums": [
+      3,
+      8,
+      13,
+      17,
+      30,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D9",
+     "nums": [
+      4,
+      7,
+      15,
+      17,
+      28,
+      37
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E9",
+     "nums": [
+      3,
+      17,
+      29,
+      30,
+      37,
+      41
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A10",
+     "nums": [
+      3,
+      6,
+      7,
+      17,
+      30,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B10",
+     "nums": [
+      6,
+      17,
+      37,
+      39,
+      40,
+      44
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C10",
+     "nums": [
+      7,
+      17,
+      29,
+      33,
+      37,
+      43
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D10",
+     "nums": [
+      12,
+      17,
+      19,
+      29,
+      42,
+      43
+     ],
+     "matched": [
+      19,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E10",
+     "nums": [
+      3,
+      6,
+      12,
+      15,
+      17,
+      37
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    }
+   ]
+  },
+  {
+   "strategy": "balanced",
+   "games": [
+    {
+     "label": "A",
+     "nums": [
+      9,
+      15,
+      20,
+      26,
+      30,
+      34
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B",
+     "nums": [
+      11,
+      15,
+      26,
+      32,
+      40,
+      42
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C",
+     "nums": [
+      2,
+      3,
+      13,
+      18,
+      32,
+      38
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D",
+     "nums": [
+      9,
+      13,
+      30,
+      34,
+      37,
+      38
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E",
+     "nums": [
+      15,
+      17,
+      27,
+      34,
+      37,
+      38
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A2",
+     "nums": [
+      3,
+      15,
+      27,
+      32,
+      38,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B2",
+     "nums": [
+      4,
+      13,
+      16,
+      20,
+      24,
+      33
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C2",
+     "nums": [
+      1,
+      10,
+      18,
+      27,
+      31,
+      36
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D2",
+     "nums": [
+      8,
+      15,
+      17,
+      22,
+      26,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E2",
+     "nums": [
+      3,
+      10,
+      22,
+      28,
+      36,
+      39
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A3",
+     "nums": [
+      5,
+      15,
+      22,
+      23,
+      27,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B3",
+     "nums": [
+      6,
+      25,
+      28,
+      31,
+      37,
+      45
+     ],
+     "matched": [
+      45
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C3",
+     "nums": [
+      4,
+      19,
+      21,
+      24,
+      26,
+      43
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D3",
+     "nums": [
+      1,
+      3,
+      10,
+      27,
+      30,
+      38
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E3",
+     "nums": [
+      6,
+      12,
+      19,
+      21,
+      36,
+      41
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A4",
+     "nums": [
+      3,
+      19,
+      30,
+      32,
+      34,
+      37
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B4",
+     "nums": [
+      1,
+      20,
+      28,
+      31,
+      36,
+      37
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C4",
+     "nums": [
+      5,
+      12,
+      14,
+      18,
+      37,
+      39
+     ],
+     "matched": [
+      14,
+      18
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D4",
+     "nums": [
+      6,
+      17,
+      20,
+      33,
+      36,
+      39
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E4",
+     "nums": [
+      10,
+      14,
+      18,
+      21,
+      31,
+      35
+     ],
+     "matched": [
+      14,
+      18
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A5",
+     "nums": [
+      6,
+      9,
+      10,
+      18,
+      23,
+      40
+     ],
+     "matched": [
+      18,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B5",
+     "nums": [
+      3,
+      4,
+      17,
+      29,
+      34,
+      42
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C5",
+     "nums": [
+      3,
+      8,
+      18,
+      21,
+      27,
+      37
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D5",
+     "nums": [
+      2,
+      3,
+      19,
+      34,
+      42,
+      45
+     ],
+     "matched": [
+      19,
+      45
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E5",
+     "nums": [
+      11,
+      19,
+      22,
+      23,
+      26,
+      38
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A6",
+     "nums": [
+      8,
+      11,
+      15,
+      21,
+      30,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B6",
+     "nums": [
+      4,
+      6,
+      19,
+      20,
+      23,
+      32
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C6",
+     "nums": [
+      5,
+      8,
+      16,
+      21,
+      41,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D6",
+     "nums": [
+      1,
+      12,
+      18,
+      25,
+      36,
+      45
+     ],
+     "matched": [
+      18,
+      45
+     ],
+     "matches": 2,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E6",
+     "nums": [
+      4,
+      10,
+      13,
+      26,
+      29,
+      41
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A7",
+     "nums": [
+      3,
+      9,
+      13,
+      17,
+      32,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B7",
+     "nums": [
+      5,
+      6,
+      16,
+      23,
+      25,
+      34
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C7",
+     "nums": [
+      7,
+      14,
+      21,
+      27,
+      31,
+      38
+     ],
+     "matched": [
+      14
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D7",
+     "nums": [
+      12,
+      20,
+      24,
+      27,
+      39,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E7",
+     "nums": [
+      1,
+      11,
+      19,
+      23,
+      24,
+      42
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A8",
+     "nums": [
+      4,
+      7,
+      15,
+      16,
+      28,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B8",
+     "nums": [
+      11,
+      14,
+      19,
+      40,
+      42,
+      44
+     ],
+     "matched": [
+      14,
+      19,
+      40
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "C8",
+     "nums": [
+      13,
+      24,
+      27,
+      33,
+      34,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D8",
+     "nums": [
+      1,
+      8,
+      21,
+      28,
+      31,
+      33
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E8",
+     "nums": [
+      3,
+      13,
+      25,
+      30,
+      31,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A9",
+     "nums": [
+      1,
+      9,
+      14,
+      24,
+      27,
+      43
+     ],
+     "matched": [
+      14
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B9",
+     "nums": [
+      15,
+      17,
+      19,
+      30,
+      36,
+      44
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C9",
+     "nums": [
+      10,
+      11,
+      17,
+      27,
+      34,
+      45
+     ],
+     "matched": [
+      45
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D9",
+     "nums": [
+      1,
+      21,
+      29,
+      32,
+      36,
+      37
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E9",
+     "nums": [
+      8,
+      13,
+      21,
+      34,
+      36,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A10",
+     "nums": [
+      11,
+      21,
+      22,
+      24,
+      40,
+      44
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B10",
+     "nums": [
+      3,
+      12,
+      18,
+      25,
+      39,
+      44
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C10",
+     "nums": [
+      6,
+      19,
+      24,
+      39,
+      43,
+      44
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D10",
+     "nums": [
+      8,
+      9,
+      11,
+      18,
+      29,
+      35
+     ],
+     "matched": [
+      18,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E10",
+     "nums": [
+      9,
+      16,
+      22,
+      24,
+      37,
+      45
+     ],
+     "matched": [
+      45
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    }
+   ]
+  },
+  {
+   "strategy": "saju",
+   "games": [
+    {
+     "label": "A",
+     "nums": [
+      5,
+      9,
+      15,
+      20,
+      22,
+      29
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B",
+     "nums": [
+      8,
+      21,
+      26,
+      32,
+      34,
+      45
+     ],
+     "matched": [
+      45
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C",
+     "nums": [
+      5,
+      6,
+      12,
+      26,
+      37,
+      45
+     ],
+     "matched": [
+      45
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D",
+     "nums": [
+      20,
+      24,
+      27,
+      30,
+      37,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E",
+     "nums": [
+      4,
+      15,
+      33,
+      34,
+      38,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A2",
+     "nums": [
+      19,
+      20,
+      24,
+      35,
+      37,
+      42
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B2",
+     "nums": [
+      4,
+      8,
+      9,
+      16,
+      24,
+      37
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C2",
+     "nums": [
+      10,
+      14,
+      29,
+      30,
+      31,
+      42
+     ],
+     "matched": [
+      14,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D2",
+     "nums": [
+      5,
+      10,
+      29,
+      34,
+      40,
+      43
+     ],
+     "matched": [
+      29,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E2",
+     "nums": [
+      7,
+      10,
+      12,
+      15,
+      20,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A3",
+     "nums": [
+      14,
+      20,
+      29,
+      35,
+      39,
+      45
+     ],
+     "matched": [
+      14,
+      29,
+      45
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "B3",
+     "nums": [
+      4,
+      30,
+      35,
+      37,
+      43,
+      45
+     ],
+     "matched": [
+      45
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C3",
+     "nums": [
+      12,
+      21,
+      27,
+      28,
+      30,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D3",
+     "nums": [
+      9,
+      10,
+      21,
+      30,
+      36,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E3",
+     "nums": [
+      15,
+      20,
+      22,
+      29,
+      35,
+      40
+     ],
+     "matched": [
+      29,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A4",
+     "nums": [
+      4,
+      17,
+      29,
+      35,
+      39,
+      40
+     ],
+     "matched": [
+      29,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B4",
+     "nums": [
+      8,
+      9,
+      15,
+      19,
+      29,
+      31
+     ],
+     "matched": [
+      19,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C4",
+     "nums": [
+      1,
+      4,
+      5,
+      37,
+      42,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D4",
+     "nums": [
+      5,
+      14,
+      19,
+      24,
+      34,
+      45
+     ],
+     "matched": [
+      14,
+      19,
+      45
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "E4",
+     "nums": [
+      4,
+      5,
+      15,
+      19,
+      25,
+      35
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A5",
+     "nums": [
+      22,
+      25,
+      31,
+      32,
+      37,
+      38
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B5",
+     "nums": [
+      13,
+      15,
+      17,
+      19,
+      29,
+      45
+     ],
+     "matched": [
+      19,
+      29,
+      45
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "C5",
+     "nums": [
+      6,
+      10,
+      20,
+      30,
+      32,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D5",
+     "nums": [
+      4,
+      15,
+      16,
+      17,
+      22,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E5",
+     "nums": [
+      7,
+      13,
+      15,
+      22,
+      24,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A6",
+     "nums": [
+      3,
+      20,
+      25,
+      26,
+      33,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B6",
+     "nums": [
+      3,
+      8,
+      14,
+      29,
+      30,
+      34
+     ],
+     "matched": [
+      14,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C6",
+     "nums": [
+      9,
+      10,
+      18,
+      28,
+      32,
+      42
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D6",
+     "nums": [
+      20,
+      30,
+      33,
+      35,
+      42,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E6",
+     "nums": [
+      5,
+      10,
+      19,
+      27,
+      34,
+      42
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A7",
+     "nums": [
+      5,
+      8,
+      9,
+      17,
+      36,
+      39
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B7",
+     "nums": [
+      2,
+      5,
+      12,
+      15,
+      37,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C7",
+     "nums": [
+      19,
+      20,
+      24,
+      25,
+      30,
+      41
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D7",
+     "nums": [
+      7,
+      12,
+      17,
+      19,
+      25,
+      26
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E7",
+     "nums": [
+      2,
+      7,
+      14,
+      17,
+      27,
+      40
+     ],
+     "matched": [
+      14,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A8",
+     "nums": [
+      5,
+      15,
+      19,
+      20,
+      24,
+      40
+     ],
+     "matched": [
+      19,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B8",
+     "nums": [
+      13,
+      21,
+      29,
+      34,
+      37,
+      39
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C8",
+     "nums": [
+      12,
+      15,
+      19,
+      21,
+      26,
+      40
+     ],
+     "matched": [
+      19,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D8",
+     "nums": [
+      20,
+      25,
+      29,
+      30,
+      35,
+      45
+     ],
+     "matched": [
+      29,
+      45
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E8",
+     "nums": [
+      5,
+      7,
+      34,
+      35,
+      39,
+      45
+     ],
+     "matched": [
+      45
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A9",
+     "nums": [
+      1,
+      9,
+      11,
+      14,
+      17,
+      45
+     ],
+     "matched": [
+      14,
+      45
+     ],
+     "matches": 2,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B9",
+     "nums": [
+      10,
+      20,
+      28,
+      33,
+      34,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C9",
+     "nums": [
+      4,
+      7,
+      12,
+      27,
+      34,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D9",
+     "nums": [
+      4,
+      12,
+      20,
+      29,
+      32,
+      41
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E9",
+     "nums": [
+      4,
+      9,
+      25,
+      31,
+      39,
+      45
+     ],
+     "matched": [
+      45
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A10",
+     "nums": [
+      9,
+      25,
+      30,
+      34,
+      37,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B10",
+     "nums": [
+      5,
+      6,
+      10,
+      12,
+      26,
+      35
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C10",
+     "nums": [
+      5,
+      11,
+      13,
+      14,
+      25,
+      44
+     ],
+     "matched": [
+      14
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D10",
+     "nums": [
+      2,
+      9,
+      10,
+      13,
+      28,
+      31
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E10",
+     "nums": [
+      2,
+      4,
+      12,
+      19,
+      24,
+      44
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    }
+   ]
+  },
+  {
+   "strategy": "random",
+   "games": [
+    {
+     "label": "A",
+     "nums": [
+      4,
+      5,
+      9,
+      37,
+      38,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B",
+     "nums": [
+      3,
+      4,
+      21,
+      30,
+      39,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C",
+     "nums": [
+      10,
+      23,
+      28,
+      33,
+      38,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D",
+     "nums": [
+      5,
+      12,
+      21,
+      37,
+      39,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E",
+     "nums": [
+      12,
+      22,
+      25,
+      35,
+      38,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A2",
+     "nums": [
+      11,
+      23,
+      25,
+      30,
+      35,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B2",
+     "nums": [
+      8,
+      13,
+      23,
+      28,
+      35,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C2",
+     "nums": [
+      12,
+      16,
+      22,
+      24,
+      37,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D2",
+     "nums": [
+      1,
+      5,
+      9,
+      27,
+      34,
+      39
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E2",
+     "nums": [
+      1,
+      2,
+      18,
+      27,
+      31,
+      42
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A3",
+     "nums": [
+      1,
+      2,
+      9,
+      15,
+      28,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B3",
+     "nums": [
+      13,
+      14,
+      18,
+      22,
+      28,
+      31
+     ],
+     "matched": [
+      14,
+      18
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C3",
+     "nums": [
+      4,
+      21,
+      31,
+      33,
+      37,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D3",
+     "nums": [
+      2,
+      9,
+      12,
+      14,
+      25,
+      39
+     ],
+     "matched": [
+      14
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E3",
+     "nums": [
+      5,
+      9,
+      20,
+      22,
+      35,
+      38
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A4",
+     "nums": [
+      3,
+      6,
+      18,
+      26,
+      28,
+      39
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B4",
+     "nums": [
+      13,
+      14,
+      21,
+      40,
+      44,
+      45
+     ],
+     "matched": [
+      14,
+      40,
+      45
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "C4",
+     "nums": [
+      7,
+      9,
+      10,
+      30,
+      35,
+      36
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D4",
+     "nums": [
+      7,
+      12,
+      19,
+      22,
+      35,
+      39
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E4",
+     "nums": [
+      6,
+      7,
+      9,
+      19,
+      27,
+      29
+     ],
+     "matched": [
+      19,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A5",
+     "nums": [
+      9,
+      11,
+      15,
+      24,
+      29,
+      30
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B5",
+     "nums": [
+      1,
+      8,
+      11,
+      26,
+      40,
+      43
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C5",
+     "nums": [
+      9,
+      10,
+      11,
+      16,
+      19,
+      29
+     ],
+     "matched": [
+      19,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D5",
+     "nums": [
+      7,
+      9,
+      12,
+      19,
+      26,
+      43
+     ],
+     "matched": [
+      19
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E5",
+     "nums": [
+      1,
+      3,
+      15,
+      22,
+      26,
+      41
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A6",
+     "nums": [
+      20,
+      23,
+      25,
+      26,
+      34,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B6",
+     "nums": [
+      9,
+      12,
+      13,
+      14,
+      20,
+      28
+     ],
+     "matched": [
+      14
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C6",
+     "nums": [
+      5,
+      17,
+      20,
+      34,
+      35,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D6",
+     "nums": [
+      3,
+      11,
+      18,
+      32,
+      37,
+      42
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E6",
+     "nums": [
+      3,
+      26,
+      31,
+      34,
+      36,
+      44
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A7",
+     "nums": [
+      15,
+      25,
+      27,
+      29,
+      33,
+      35
+     ],
+     "matched": [
+      29
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B7",
+     "nums": [
+      1,
+      8,
+      14,
+      18,
+      24,
+      40
+     ],
+     "matched": [
+      14,
+      18,
+      40
+     ],
+     "matches": 3,
+     "bonusHit": true,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "C7",
+     "nums": [
+      14,
+      19,
+      24,
+      26,
+      29,
+      44
+     ],
+     "matched": [
+      14,
+      19,
+      29
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "D7",
+     "nums": [
+      2,
+      13,
+      14,
+      17,
+      18,
+      45
+     ],
+     "matched": [
+      14,
+      18,
+      45
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "E7",
+     "nums": [
+      2,
+      13,
+      16,
+      18,
+      42,
+      43
+     ],
+     "matched": [
+      18
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A8",
+     "nums": [
+      4,
+      5,
+      38,
+      41,
+      42,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B8",
+     "nums": [
+      6,
+      11,
+      13,
+      22,
+      26,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C8",
+     "nums": [
+      2,
+      3,
+      9,
+      13,
+      16,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D8",
+     "nums": [
+      7,
+      21,
+      34,
+      36,
+      37,
+      38
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E8",
+     "nums": [
+      5,
+      14,
+      16,
+      19,
+      20,
+      32
+     ],
+     "matched": [
+      14,
+      19
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A9",
+     "nums": [
+      3,
+      9,
+      10,
+      21,
+      33,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B9",
+     "nums": [
+      2,
+      8,
+      25,
+      34,
+      39,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C9",
+     "nums": [
+      10,
+      31,
+      33,
+      38,
+      39,
+      40
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D9",
+     "nums": [
+      3,
+      14,
+      19,
+      21,
+      29,
+      30
+     ],
+     "matched": [
+      14,
+      19,
+      29
+     ],
+     "matches": 3,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 5000
+    },
+    {
+     "label": "E9",
+     "nums": [
+      1,
+      4,
+      26,
+      27,
+      41,
+      42
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": true,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A10",
+     "nums": [
+      11,
+      12,
+      13,
+      21,
+      42,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B10",
+     "nums": [
+      8,
+      12,
+      21,
+      28,
+      40,
+      44
+     ],
+     "matched": [
+      40
+     ],
+     "matches": 1,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C10",
+     "nums": [
+      14,
+      26,
+      27,
+      29,
+      38,
+      44
+     ],
+     "matched": [
+      14,
+      29
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D10",
+     "nums": [
+      2,
+      7,
+      14,
+      32,
+      40,
+      44
+     ],
+     "matched": [
+      14,
+      40
+     ],
+     "matches": 2,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E10",
+     "nums": [
+      6,
+      28,
+      30,
+      33,
+      36,
+      43
+     ],
+     "matched": [],
+     "matches": 0,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    }
+   ]
+  }
+ ]
+}
