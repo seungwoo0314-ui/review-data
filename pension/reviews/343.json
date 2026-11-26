@@ -1,0 +1,2560 @@
+{
+ "round": 343,
+ "draw": {
+  "round": 343,
+  "date": "2026-11-26",
+  "group": 1,
+  "number": "574169",
+  "bonus": "152448",
+  "winners": [
+   2,
+   8,
+   77,
+   581,
+   6615,
+   64118,
+   635538,
+   10
+  ],
+  "prizes": [
+   1680000000,
+   120000000,
+   1000000,
+   100000,
+   50000,
+   5000,
+   1000,
+   120000000
+  ]
+ },
+ "mode": "live",
+ "publishedAt": "2026-11-19T11:13:06.219Z",
+ "reviewedAt": "2026-11-26T11:13:06.338Z",
+ "results": [
+  {
+   "strategy": "hot",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 4,
+     "number": "694122",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B",
+     "group": 3,
+     "number": "216532",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C",
+     "group": 2,
+     "number": "208916",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D",
+     "group": 3,
+     "number": "204322",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E",
+     "group": 4,
+     "number": "198922",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A2",
+     "group": 2,
+     "number": "692410",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B2",
+     "group": 3,
+     "number": "694312",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C2",
+     "group": 2,
+     "number": "291332",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D2",
+     "group": 5,
+     "number": "614583",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E2",
+     "group": 2,
+     "number": "201344",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A3",
+     "group": 1,
+     "number": "096712",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B3",
+     "group": 3,
+     "number": "455322",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C3",
+     "group": 1,
+     "number": "594311",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D3",
+     "group": 5,
+     "number": "606702",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E3",
+     "group": 2,
+     "number": "154910",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A4",
+     "group": 4,
+     "number": "094730",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B4",
+     "group": 1,
+     "number": "646512",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C4",
+     "group": 3,
+     "number": "176955",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D4",
+     "group": 3,
+     "number": "638362",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E4",
+     "group": 5,
+     "number": "195382",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A5",
+     "group": 5,
+     "number": "694911",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B5",
+     "group": 2,
+     "number": "858393",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C5",
+     "group": 4,
+     "number": "266913",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D5",
+     "group": 3,
+     "number": "156864",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E5",
+     "group": 4,
+     "number": "081324",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A6",
+     "group": 3,
+     "number": "652702",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B6",
+     "group": 1,
+     "number": "601379",
+     "suffix": 1,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "C6",
+     "group": 5,
+     "number": "691339",
+     "suffix": 1,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "D6",
+     "group": 3,
+     "number": "146932",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E6",
+     "group": 3,
+     "number": "111319",
+     "suffix": 1,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "A7",
+     "group": 3,
+     "number": "051713",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B7",
+     "group": 3,
+     "number": "141525",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C7",
+     "group": 4,
+     "number": "016315",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D7",
+     "group": 2,
+     "number": "181992",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E7",
+     "group": 5,
+     "number": "656323",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A8",
+     "group": 3,
+     "number": "299301",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B8",
+     "group": 4,
+     "number": "794939",
+     "suffix": 1,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "C8",
+     "group": 3,
+     "number": "651911",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D8",
+     "group": 1,
+     "number": "118782",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E8",
+     "group": 4,
+     "number": "608383",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A9",
+     "group": 5,
+     "number": "392575",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B9",
+     "group": 3,
+     "number": "046925",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C9",
+     "group": 2,
+     "number": "324912",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D9",
+     "group": 1,
+     "number": "159702",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E9",
+     "group": 4,
+     "number": "654589",
+     "suffix": 1,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "A10",
+     "group": 2,
+     "number": "097338",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B10",
+     "group": 3,
+     "number": "104970",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C10",
+     "group": 3,
+     "number": "056812",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D10",
+     "group": 4,
+     "number": "214914",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E10",
+     "group": 5,
+     "number": "604592",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    }
+   ]
+  },
+  {
+   "strategy": "cold",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 1,
+     "number": "845467",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B",
+     "group": 5,
+     "number": "772667",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C",
+     "group": 4,
+     "number": "843767",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D",
+     "group": 2,
+     "number": "842278",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E",
+     "group": 2,
+     "number": "273640",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A2",
+     "group": 5,
+     "number": "913267",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B2",
+     "group": 2,
+     "number": "380683",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C2",
+     "group": 5,
+     "number": "473464",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D2",
+     "group": 5,
+     "number": "577466",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E2",
+     "group": 3,
+     "number": "873405",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A3",
+     "group": 1,
+     "number": "828663",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B3",
+     "group": 1,
+     "number": "277480",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C3",
+     "group": 2,
+     "number": "873603",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D3",
+     "group": 3,
+     "number": "463608",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E3",
+     "group": 2,
+     "number": "472487",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A4",
+     "group": 3,
+     "number": "270608",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B4",
+     "group": 3,
+     "number": "873468",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C4",
+     "group": 2,
+     "number": "970668",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D4",
+     "group": 1,
+     "number": "413608",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E4",
+     "group": 4,
+     "number": "483460",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A5",
+     "group": 3,
+     "number": "577468",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B5",
+     "group": 3,
+     "number": "543767",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C5",
+     "group": 1,
+     "number": "503656",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D5",
+     "group": 4,
+     "number": "477288",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E5",
+     "group": 3,
+     "number": "973367",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A6",
+     "group": 3,
+     "number": "713863",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B6",
+     "group": 5,
+     "number": "477688",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C6",
+     "group": 5,
+     "number": "570668",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D6",
+     "group": 1,
+     "number": "173000",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E6",
+     "group": 1,
+     "number": "573667",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A7",
+     "group": 5,
+     "number": "873268",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B7",
+     "group": 1,
+     "number": "873257",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C7",
+     "group": 5,
+     "number": "877240",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D7",
+     "group": 4,
+     "number": "372667",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E7",
+     "group": 1,
+     "number": "873008",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A8",
+     "group": 3,
+     "number": "577667",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B8",
+     "group": 4,
+     "number": "475407",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C8",
+     "group": 2,
+     "number": "583667",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D8",
+     "group": 2,
+     "number": "273267",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E8",
+     "group": 4,
+     "number": "663607",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A9",
+     "group": 1,
+     "number": "827666",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B9",
+     "group": 3,
+     "number": "587649",
+     "suffix": 1,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "C9",
+     "group": 5,
+     "number": "580506",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D9",
+     "group": 2,
+     "number": "812457",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E9",
+     "group": 3,
+     "number": "475466",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A10",
+     "group": 4,
+     "number": "577688",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B10",
+     "group": 1,
+     "number": "413276",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C10",
+     "group": 4,
+     "number": "910468",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D10",
+     "group": 5,
+     "number": "980465",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E10",
+     "group": 5,
+     "number": "883673",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    }
+   ]
+  },
+  {
+   "strategy": "balanced",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 2,
+     "number": "582170",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B",
+     "group": 5,
+     "number": "952573",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C",
+     "group": 2,
+     "number": "453775",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D",
+     "group": 1,
+     "number": "902852",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E",
+     "group": 5,
+     "number": "918062",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A2",
+     "group": 3,
+     "number": "914722",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B2",
+     "group": 2,
+     "number": "802961",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C2",
+     "group": 3,
+     "number": "687284",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D2",
+     "group": 4,
+     "number": "972762",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E2",
+     "group": 2,
+     "number": "437147",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A3",
+     "group": 2,
+     "number": "473316",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B3",
+     "group": 5,
+     "number": "121509",
+     "suffix": 1,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "C3",
+     "group": 2,
+     "number": "044557",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D3",
+     "group": 5,
+     "number": "477392",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E3",
+     "group": 4,
+     "number": "980295",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A4",
+     "group": 1,
+     "number": "970386",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B4",
+     "group": 3,
+     "number": "933729",
+     "suffix": 1,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "C4",
+     "group": 4,
+     "number": "728291",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D4",
+     "group": 1,
+     "number": "537929",
+     "suffix": 1,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "E4",
+     "group": 4,
+     "number": "304568",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A5",
+     "group": 2,
+     "number": "805874",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B5",
+     "group": 3,
+     "number": "149563",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C5",
+     "group": 4,
+     "number": "009657",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D5",
+     "group": 1,
+     "number": "502898",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E5",
+     "group": 3,
+     "number": "132584",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A6",
+     "group": 2,
+     "number": "914857",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B6",
+     "group": 2,
+     "number": "847736",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C6",
+     "group": 5,
+     "number": "920278",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D6",
+     "group": 2,
+     "number": "639860",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E6",
+     "group": 4,
+     "number": "433860",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A7",
+     "group": 5,
+     "number": "833577",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B7",
+     "group": 2,
+     "number": "974652",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C7",
+     "group": 4,
+     "number": "728340",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D7",
+     "group": 3,
+     "number": "149653",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E7",
+     "group": 2,
+     "number": "702448",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A8",
+     "group": 5,
+     "number": "493930",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B8",
+     "group": 3,
+     "number": "088075",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C8",
+     "group": 2,
+     "number": "253675",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D8",
+     "group": 1,
+     "number": "134973",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E8",
+     "group": 5,
+     "number": "366212",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A9",
+     "group": 4,
+     "number": "513972",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B9",
+     "group": 4,
+     "number": "906955",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C9",
+     "group": 2,
+     "number": "553860",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D9",
+     "group": 1,
+     "number": "104726",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E9",
+     "group": 4,
+     "number": "451652",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A10",
+     "group": 5,
+     "number": "572298",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B10",
+     "group": 3,
+     "number": "187275",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C10",
+     "group": 5,
+     "number": "274559",
+     "suffix": 1,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "D10",
+     "group": 4,
+     "number": "980170",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E10",
+     "group": 5,
+     "number": "597902",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    }
+   ]
+  },
+  {
+   "strategy": "saju",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 5,
+     "number": "118281",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B",
+     "group": 5,
+     "number": "778112",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C",
+     "group": 2,
+     "number": "116688",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D",
+     "group": 3,
+     "number": "782811",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E",
+     "group": 3,
+     "number": "731286",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A2",
+     "group": 5,
+     "number": "283763",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B2",
+     "group": 2,
+     "number": "778361",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C2",
+     "group": 5,
+     "number": "778877",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D2",
+     "group": 1,
+     "number": "000286",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E2",
+     "group": 3,
+     "number": "663878",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A3",
+     "group": 5,
+     "number": "283212",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B3",
+     "group": 5,
+     "number": "580133",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C3",
+     "group": 4,
+     "number": "265332",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D3",
+     "group": 5,
+     "number": "888848",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E3",
+     "group": 5,
+     "number": "836213",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A4",
+     "group": 2,
+     "number": "988102",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B4",
+     "group": 3,
+     "number": "876655",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C4",
+     "group": 2,
+     "number": "876167",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D4",
+     "group": 5,
+     "number": "379388",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E4",
+     "group": 4,
+     "number": "338235",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A5",
+     "group": 2,
+     "number": "311100",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B5",
+     "group": 5,
+     "number": "370596",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C5",
+     "group": 3,
+     "number": "626448",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D5",
+     "group": 2,
+     "number": "631258",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E5",
+     "group": 4,
+     "number": "308743",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A6",
+     "group": 5,
+     "number": "381856",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B6",
+     "group": 1,
+     "number": "078827",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C6",
+     "group": 4,
+     "number": "287101",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D6",
+     "group": 4,
+     "number": "288123",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E6",
+     "group": 2,
+     "number": "362856",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A7",
+     "group": 4,
+     "number": "876138",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B7",
+     "group": 1,
+     "number": "372338",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C7",
+     "group": 5,
+     "number": "310487",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D7",
+     "group": 4,
+     "number": "681105",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E7",
+     "group": 1,
+     "number": "823096",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A8",
+     "group": 2,
+     "number": "161871",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B8",
+     "group": 3,
+     "number": "564667",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C8",
+     "group": 3,
+     "number": "186323",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D8",
+     "group": 4,
+     "number": "585413",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E8",
+     "group": 3,
+     "number": "275248",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A9",
+     "group": 4,
+     "number": "030737",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B9",
+     "group": 1,
+     "number": "813111",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C9",
+     "group": 5,
+     "number": "687801",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D9",
+     "group": 4,
+     "number": "622337",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E9",
+     "group": 1,
+     "number": "676383",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A10",
+     "group": 5,
+     "number": "811736",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B10",
+     "group": 4,
+     "number": "138362",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C10",
+     "group": 3,
+     "number": "721328",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D10",
+     "group": 4,
+     "number": "918237",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E10",
+     "group": 4,
+     "number": "329301",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    }
+   ]
+  },
+  {
+   "strategy": "random",
+   "tickets": [
+    {
+     "label": "A",
+     "group": 3,
+     "number": "509020",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B",
+     "group": 1,
+     "number": "295149",
+     "suffix": 1,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "C",
+     "group": 1,
+     "number": "894468",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D",
+     "group": 2,
+     "number": "609373",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E",
+     "group": 2,
+     "number": "892434",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A2",
+     "group": 5,
+     "number": "934572",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B2",
+     "group": 3,
+     "number": "937021",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C2",
+     "group": 4,
+     "number": "997804",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D2",
+     "group": 3,
+     "number": "459315",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E2",
+     "group": 2,
+     "number": "391145",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A3",
+     "group": 5,
+     "number": "761365",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B3",
+     "group": 2,
+     "number": "805899",
+     "suffix": 1,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "C3",
+     "group": 2,
+     "number": "269972",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D3",
+     "group": 1,
+     "number": "949235",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E3",
+     "group": 2,
+     "number": "378374",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A4",
+     "group": 3,
+     "number": "642523",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B4",
+     "group": 5,
+     "number": "171302",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C4",
+     "group": 2,
+     "number": "173533",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D4",
+     "group": 2,
+     "number": "852325",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E4",
+     "group": 3,
+     "number": "032038",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A5",
+     "group": 2,
+     "number": "733230",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B5",
+     "group": 1,
+     "number": "818839",
+     "suffix": 1,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "C5",
+     "group": 1,
+     "number": "880715",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D5",
+     "group": 1,
+     "number": "525346",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E5",
+     "group": 2,
+     "number": "960825",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A6",
+     "group": 4,
+     "number": "180128",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B6",
+     "group": 3,
+     "number": "031650",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C6",
+     "group": 4,
+     "number": "696687",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D6",
+     "group": 4,
+     "number": "575303",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E6",
+     "group": 5,
+     "number": "792358",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A7",
+     "group": 5,
+     "number": "196591",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B7",
+     "group": 5,
+     "number": "014970",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C7",
+     "group": 3,
+     "number": "413965",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D7",
+     "group": 4,
+     "number": "529080",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E7",
+     "group": 3,
+     "number": "895864",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A8",
+     "group": 1,
+     "number": "310858",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B8",
+     "group": 2,
+     "number": "560538",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C8",
+     "group": 4,
+     "number": "500507",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D8",
+     "group": 1,
+     "number": "713894",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E8",
+     "group": 5,
+     "number": "406232",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A9",
+     "group": 4,
+     "number": "160778",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B9",
+     "group": 3,
+     "number": "101409",
+     "suffix": 1,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 7,
+     "prize": 1000
+    },
+    {
+     "label": "C9",
+     "group": 4,
+     "number": "712700",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D9",
+     "group": 1,
+     "number": "248169",
+     "suffix": 3,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 5,
+     "prize": 50000
+    },
+    {
+     "label": "E9",
+     "group": 4,
+     "number": "652352",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "A10",
+     "group": 5,
+     "number": "063607",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "B10",
+     "group": 1,
+     "number": "763185",
+     "suffix": 0,
+     "groupHit": true,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "C10",
+     "group": 4,
+     "number": "506856",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "D10",
+     "group": 3,
+     "number": "875345",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    },
+    {
+     "label": "E10",
+     "group": 3,
+     "number": "708394",
+     "suffix": 0,
+     "groupHit": false,
+     "bonusHit": false,
+     "rank": 0,
+     "prize": 0
+    }
+   ]
+  }
+ ]
+}
